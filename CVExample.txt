@@ -1,0 +1,44 @@
+Alex Mercer
+Senior Systems Engineer (HCI)
+alex.mercer@example.com | Seattle, WA
+
+PROFESSIONAL SUMMARY
+Senior Systems Engineer with 8+ years of experience bridging hardware and software to create seamless, low-latency Human-Computer Interactions. Specializes in system architecture, integrating multimodal inputs (eye tracking, hand tracking, haptics), and optimizing spatial computing pipelines for XR hardware.
+
+CORE SKILLS
+
+    System Architecture & Integration
+
+    C++, C#, Python
+
+    Sensor Fusion & Biometric Integration
+
+    Human-in-the-Loop Simulation
+
+    Performance & Latency Optimization
+
+    User-Centered Design Validation
+
+PROFESSIONAL EXPERIENCE
+
+Senior HCI Systems Engineer | TechNova Spatial Systems
+2020 - Present
+
+    Architected the software-to-hardware communication layer for a next-generation enterprise VR headset.
+
+    Reduced motion-to-photon latency by 12ms, significantly minimizing simulation sickness and improving user comfort.
+
+    Led a team of engineers to integrate native eye-tracking and gesture-recognition APIs into the core operating system.
+
+Systems Engineer | Immersive Solutions Inc.
+2016 - 2020
+
+    Developed middleware to connect custom haptic gloves with commercial 3D engines.
+
+    Designed system-level performance monitoring tools to track CPU/GPU bottlenecks during complex interactions.
+
+    Conducted usability testing and quantitative analysis to refine the ergonomics of custom hardware controllers.
+
+EDUCATION
+M.S. in Computer Science (HCI Focus) - Carnegie Mellon University
+B.S. in Computer Engineering - University of Washington
