@@ -1,0 +1,37 @@
+Senior Systems Engineer (HCI / Hybrid Cloud)
+
+Experis ist der spezialisierte Geschäftsbereich von ManpowerGroup und fokussiert sich auf IT‑ und Engineering‑Dienstleistungen. Wir unterstützen Unternehmen dabei, ihre digitale Transformation erfolgreich voranzutreiben – mit hochqualifizierten Expert:innen, innovativen Lösungen und einem starken Netzwerk. Gleichzeitig begleiten wir Talente gezielt in ihrer Karriere und bieten spannende Projekte in einem technologisch anspruchsvollen Umfeld.
+
+Als Senior Systems Engineer (HCI / Hybrid Cloud) arbeitest du eng mit einem erfahrenen Engineering-Team zusammen und gestaltest moderne Cloud-Infrastrukturen aktiv mit. Dabei setzt du auf führende Technologien und trägst dazu bei, klassische IT-Landschaften in skalierbare, zukunftsorientierte Plattformen zu transformieren.
+
+Dein Tätigkeitsbereich
+
+    Architektur & Design: Entwicklung und Konzeption moderner hyperkonvergenter Infrastrukturen (HCI) im Bereich Software‑Defined Compute, Storage und Networking – von Private-Cloud-Lösungen bis hin zu flexiblen Hybrid-Cloud-Umgebungen
+    Projektverantwortung: Technische Leitung anspruchsvoller Cloud-Projekte über den gesamten Lifecycle – von der Analyse über das Design bis zur Implementierung und dem Betrieb
+    Zusammenarbeit: Enge Abstimmung mit verschiedenen Stakeholdern zur Entwicklung maßgeschneiderter Lösungen
+    Technologie-Partnerschaften: Austausch mit führenden Herstellern wie Nutanix, Rubrik, Cloudian oder Red Hat zur Weiterentwicklung moderner IT-Landschaften
+    Innovation: Evaluierung neuer Technologien und aktive Mitgestaltung zukunftsweisender Cloud-Strategien
+    Pre-Sales Support: Unterstützung im Vertriebsprozess als technische:r Ansprechpartner:in 
+
+Dein Profil
+
+    Abgeschlossene Ausbildung in Informatik (HF/FH) oder vergleichbare Qualifikation
+    Mehrjährige Erfahrung in der Konzeption und im Betrieb von Private‑Cloud‑Infrastrukturen
+    Fundierte Kenntnisse in System Engineering (Compute, Storage, Virtualisierung, Networking)
+    Erfahrung mit HCI-Plattformen (z. B. Nutanix, VMware vSAN o. ä.)
+    Gute Kenntnisse in Virtualisierungstechnologien (VMware, AHV, KVM, Hyper‑V)
+    Verständnis von Software‑Defined Infrastructure
+    Erfahrung im Bereich Backup & Data Protection (z. B. Rubrik, Veeam, HYCU)
+    Kenntnisse in Automation (Terraform, Ansible) von Vorteil
+    Interesse an Kubernetes und Cloud‑Native-Technologien
+    Sehr gute Deutsch- und Englischkenntnisse 
+
+Das erwartet dich
+
+    Offene, moderne Unternehmenskultur mit kurzen Entscheidungswegen
+    Spannende Projekte im Bereich Cloud und hybride Infrastrukturen
+    Attraktive Anstellungsbedingungen und flexible Arbeitsmodelle
+    Weiterbildungsmöglichkeiten zur fachlichen und persönlichen Entwicklung
+    Zugang zu einem internationalen Netzwerk und vielseitigen Karriereoptionen 
+
+Bereit für den nächsten Karriereschritt? Dann freuen wir uns auf deine Bewerbung und darauf, dich kennenzulernen!
