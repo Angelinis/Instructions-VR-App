@@ -3,42 +3,53 @@ Senior Systems Engineer (HCI)
 alex.mercer@example.com | Seattle, WA
 
 PROFESSIONAL SUMMARY
-Senior Systems Engineer with 8+ years of experience bridging hardware and software to create seamless, low-latency Human-Computer Interactions. Specializes in system architecture, integrating multimodal inputs (eye tracking, hand tracking, haptics), and optimizing spatial computing pipelines for XR hardware.
+16-jähriger Schüler der Sekundarschule mit grossem Interesse an Informatik und Technologie. Erste praktische Erfahrungen im Programmieren mit Python und Scratch sowie zwei absolvierte Schnupperlehren im IT-Bereich. Tägliche Nutzung von Screenreadern und Braillezeile, dadurch sicherer Umgang mit assistiver Technologie und ein gutes Gespür für barrierefreie Anwendungen.
 
 CORE SKILLS
 
-    System Architecture & Integration
+    Programmieren mit Python und Scratch (Grundlagen)
 
-    C++, C#, Python
+    HTML und CSS (Grundlagen, aus Schnupperlehre)
 
-    Sensor Fusion & Biometric Integration
+    Screenreader (JAWS und NVDA, tägliche Nutzung)
 
-    Human-in-the-Loop Simulation
+    Braillezeile (tägliche Nutzung in Schule und Freizeit)
 
-    Performance & Latency Optimization
+    Office-Programme (Word, Excel, PowerPoint)
 
-    User-Centered Design Validation
+    Logisches Denken und Problemlösung sowie Selbstständige und sorgfältige Arbeitsweise
 
 PROFESSIONAL EXPERIENCE
 
-Senior HCI Systems Engineer | TechNova Spatial Systems
-2020 - Present
+none
 
-    Architected the software-to-hardware communication layer for a next-generation enterprise VR headset.
+    
 
-    Reduced motion-to-photon latency by 12ms, significantly minimizing simulation sickness and improving user comfort.
+    
 
-    Led a team of engineers to integrate native eye-tracking and gesture-recognition APIs into the core operating system.
+    
 
-Systems Engineer | Immersive Solutions Inc.
-2016 - 2020
 
-    Developed middleware to connect custom haptic gloves with commercial 3D engines.
 
-    Designed system-level performance monitoring tools to track CPU/GPU bottlenecks during complex interactions.
+    .
 
-    Conducted usability testing and quantitative analysis to refine the ergonomics of custom hardware controllers.
+    .
+
+    .
 
 EDUCATION
-M.S. in Computer Science (HCI Focus) - Carnegie Mellon University
-B.S. in Computer Engineering - University of Washington
+Schnupperlehre Informatik (3 Tage) | InfoTech GmbH, Bern
+Oktober 2025
+    Einblick in den Berufsalltag eines Applikationsentwicklers gewonnen.
+    Eigene einfache Webseite mit HTML und CSS programmiert und im Team präsentiert.
+    Erste Erfahrungen mit der Versionsverwaltung Git gesammelt.
+Schnupperlehre Mediamatik (2 Tage) | Stadtverwaltung Bern
+Mai 2025
+    Mitarbeit beim Erstellen von Social-Media-Beiträgen für die Abteilung Kommunikation.
+    Einfache Bildbearbeitungen und Tonaufnahmen unter Anleitung durchgeführt.
+SPRACHEN
+Deutsch - Muttersprache
+Englisch - gute Kenntnisse (Schulniveau, B1)
+Französisch - Grundkenntnisse (Schulniveau, A2)
+HOBBYS UND INTERESSEN
+Goalball im Verein (zweimal pro Woche Training) - Hörbücher, vor allem Krimis und Science-Fiction - Schach im Schweizer Blindenschachclub - Eigene Podcast-Episoden aufnehmen und schneidenon
