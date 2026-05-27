@@ -1,33 +1,37 @@
-Informatiker/in EFZ – Fachrichtung Applikationsentwicklung
-Die DigitalWerk AG ist ein Schweizer Software-Unternehmen mit Sitz in Bern. Wir entwickeln digitale Lösungen für Schulen, Spitäler und Verwaltungen und legen besonderen Wert auf barrierefreie Anwendungen, die wirklich von allen Menschen genutzt werden können. Mit einem Team von 35 Mitarbeitenden bieten wir ein modernes, offenes Arbeitsumfeld, in dem Lernende von Anfang an in echten Projekten mitarbeiten und Schritt für Schritt zu erfahrenen Fachkräften wachsen.
+Senior Systems Engineer (HCI / Hybrid Cloud)
 
-Als Informatiker/in EFZ in der Fachrichtung Applikationsentwicklung lernst du während vier Jahren, wie aus einer Idee eine fertige Software entsteht. Du arbeitest gemeinsam mit deinem Lehrlingsbetreuer und einem Team an Webseiten, Anwendungen und kleineren Software-Projekten. Dabei lernst du nicht nur das Programmieren, sondern auch, wie man Probleme analysiert, im Team Lösungen entwickelt und mit Kundinnen und Kunden spricht.
+Experis ist der spezialisierte Geschäftsbereich von ManpowerGroup und fokussiert sich auf IT‑ und Engineering‑Dienstleistungen. Wir unterstützen Unternehmen dabei, ihre digitale Transformation erfolgreich voranzutreiben – mit hochqualifizierten Expert:innen, innovativen Lösungen und einem starken Netzwerk. Gleichzeitig begleiten wir Talente gezielt in ihrer Karriere und bieten spannende Projekte in einem technologisch anspruchsvollen Umfeld.
+
+Als Senior Systems Engineer (HCI / Hybrid Cloud) arbeitest du eng mit einem erfahrenen Engineering-Team zusammen und gestaltest moderne Cloud-Infrastrukturen aktiv mit. Dabei setzt du auf führende Technologien und trägst dazu bei, klassische IT-Landschaften in skalierbare, zukunftsorientierte Plattformen zu transformieren.
 
 Dein Tätigkeitsbereich
-    Programmieren: Erlernen moderner Programmiersprachen wie Python, JavaScript und Java sowie das Entwickeln von eigenen kleinen Anwendungen
-    Projekte: Mitarbeit an echten Kundenprojekten – von der ersten Idee bis zur fertigen Software
-    Zusammenarbeit: Tägliche Arbeit im Team mit erfahrenen Entwicklerinnen und Entwicklern, die dich begleiten und Fragen beantworten
-    Barrierefreiheit: Mitgestaltung von Anwendungen, die für alle Menschen zugänglich sind, einschliesslich Nutzerinnen und Nutzern mit Sehbehinderung
-    Berufsschule: Besuch der Berufsfachschule (ein bis zwei Tage pro Woche) zur Vermittlung der theoretischen Grundlagen
-    Persönliche Entwicklung: Aufbau von Selbstständigkeit, Verantwortungsbewusstsein und Teamfähigkeit
+
+    Architektur & Design: Entwicklung und Konzeption moderner hyperkonvergenter Infrastrukturen (HCI) im Bereich Software‑Defined Compute, Storage und Networking – von Private-Cloud-Lösungen bis hin zu flexiblen Hybrid-Cloud-Umgebungen
+    Projektverantwortung: Technische Leitung anspruchsvoller Cloud-Projekte über den gesamten Lifecycle – von der Analyse über das Design bis zur Implementierung und dem Betrieb
+    Zusammenarbeit: Enge Abstimmung mit verschiedenen Stakeholdern zur Entwicklung maßgeschneiderter Lösungen
+    Technologie-Partnerschaften: Austausch mit führenden Herstellern wie Nutanix, Rubrik, Cloudian oder Red Hat zur Weiterentwicklung moderner IT-Landschaften
+    Innovation: Evaluierung neuer Technologien und aktive Mitgestaltung zukunftsweisender Cloud-Strategien
+    Pre-Sales Support: Unterstützung im Vertriebsprozess als technische:r Ansprechpartner:in 
 
 Dein Profil
-    Abgeschlossene obligatorische Schulzeit (Sekundarstufe I)
-    Freude am Lösen von logischen Aufgaben und kniffligen Rätseln
-    Interesse an Computern, Technik und neuen Programmen
-    Selbstständige und zuverlässige Arbeitsweise
-    Bereitschaft, Neues zu lernen und auch mal eigene Wege zu gehen
-    Gute Deutschkenntnisse in Wort und Schrift
-    Grundkenntnisse in Englisch
-    Erste Erfahrungen mit Programmieren (z. B. Scratch, Python) sind ein Pluspunkt, aber kein Muss
+
+    Abgeschlossene Ausbildung in Informatik (HF/FH) oder vergleichbare Qualifikation
+    Mehrjährige Erfahrung in der Konzeption und im Betrieb von Private‑Cloud‑Infrastrukturen
+    Fundierte Kenntnisse in System Engineering (Compute, Storage, Virtualisierung, Networking)
+    Erfahrung mit HCI-Plattformen (z. B. Nutanix, VMware vSAN o. ä.)
+    Gute Kenntnisse in Virtualisierungstechnologien (VMware, AHV, KVM, Hyper‑V)
+    Verständnis von Software‑Defined Infrastructure
+    Erfahrung im Bereich Backup & Data Protection (z. B. Rubrik, Veeam, HYCU)
+    Kenntnisse in Automation (Terraform, Ansible) von Vorteil
+    Interesse an Kubernetes und Cloud‑Native-Technologien
+    Sehr gute Deutsch- und Englischkenntnisse 
 
 Das erwartet dich
-    Eine vierjährige Lehre mit eidgenössischem Fähigkeitszeugnis (EFZ)
-    Engagierte Berufsbildner, die dich Schritt für Schritt begleiten
-    Ein moderner Arbeitsplatz, den wir gerne gemeinsam mit dir so gestalten, dass du gut arbeiten kannst
-    Faires Lehrlingsgehalt nach Branchenempfehlung und fünf Wochen Ferien pro Jahr
-    Eine offene Unternehmenskultur mit kurzen Entscheidungswegen und einem freundlichen Team
-    Team-Anlässe, Lehrlingsausflüge und gemeinsame Aktivitäten mit den anderen Lernenden
-    Eine Schnupperlehre ist jederzeit möglich, damit du herausfinden kannst, ob der Beruf zu dir passt
 
-Bereit für deinen Start ins Berufsleben? Dann freuen wir uns auf deine Bewerbung und darauf, dich kennenzulernen!
+    Offene, moderne Unternehmenskultur mit kurzen Entscheidungswegen
+    Spannende Projekte im Bereich Cloud und hybride Infrastrukturen
+    Attraktive Anstellungsbedingungen und flexible Arbeitsmodelle
+    Weiterbildungsmöglichkeiten zur fachlichen und persönlichen Entwicklung
+    Zugang zu einem internationalen Netzwerk und vielseitigen Karriereoptionen 
+
+Bereit für den nächsten Karriereschritt? Dann freuen wir uns auf deine Bewerbung und darauf, dich kennenzulernen!
